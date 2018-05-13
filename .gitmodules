@@ -1,0 +1,4 @@
+[submodule "mayrino/odoo-addons"]
+	path = mayrino/odoo-addons
+	url = git@github.com:mayrino/odoo-addons.git
+	branch = master
